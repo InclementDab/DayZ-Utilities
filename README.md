@@ -1,11 +1,17 @@
 # DayZ-Utilities
 List of useful batch files / other tools created by the community
 
-FixScripts.bat 
+---
+## FixScripts.bat
+### *Cleans up your Workbench directory*
 
-Parameters inside:
-PREFIX=DayZ (Root folder name)
-ROOT_DIR=P:\scripts (Directory to your DayZ scripts folder. Shouldnt need to be changed)
+Example:
 
-![Before](/images/fixscripts_before.png)
 ![After](/images/fixscripts_after.png)
+
+Parameters:
+- `PREFIX=DayZ` Root Folder Directory
+- `ROOT_DIR=P:\scripts` Directory to your DayZ scripts folder. Shouldnt need to be changed
+
+
+
