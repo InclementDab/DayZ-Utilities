@@ -24,7 +24,7 @@ needs to be documented
 
 
 
-## Contributors
+# Contributors
 [InclementDab](https://twitter.com/InclementDab)
 
 
