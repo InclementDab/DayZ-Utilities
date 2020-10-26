@@ -1,0 +1,55 @@
+<CurrencyName> #tm_ruble
+	<Currency> MoneyRuble1, 	1
+	<Currency> MoneyRuble5, 	5
+	<Currency> MoneyRuble10, 	10
+	<Currency> MoneyRuble25, 	25
+	<Currency> MoneyRuble50, 	50
+	<Currency> MoneyRuble100, 	100
+
+
+<Trader> Consume Trader
+	<Category> Food
+		Example,                                                            *,			1,			-1
+
+
+<Trader> Misc Trader
+	<Category> Containers
+		Example1,                                                           *,			1,			-1
+
+	<Category> Tools
+		Example2,                                                           *,			1,			-1
+
+	<Category> Viking
+
+	<Category> Bbp
+
+	<Category> Msp
+
+	<Category> Mass
+
+	<Category> Cp
+
+	<Category> Mung
+
+
+<Trader> Weapon Trader
+	<Category> Weapons
+		Example3,                                                           *,			1,			-1
+
+	<Category> Explosives
+		Example4,                                                           *,			1,			-1
+
+
+<Trader> Clothing Trader
+	<Category> Clothes
+		Example5,                                                           *,			1,			-1
+
+
+<Trader> Weapon Supplies Trader
+
+<Trader> Vehicles Trader
+	<Category> Vehiclesparts
+
+	<Category> Vehicles
+		Example5,                                                           *,			1,			-1
+		Example6,                                                           V,			1,			-1
